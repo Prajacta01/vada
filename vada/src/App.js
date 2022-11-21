@@ -20,6 +20,7 @@ function App() {
       'dahi vada',
       'daar vada',
       'parle g',
+      'k3g',
       'cringe',
       'prajacta',
     ]
@@ -27,7 +28,7 @@ function App() {
     let final = ""
     for (let i = 0; i <10; i++) {
 
-      final += getRandomListElement(stringsList) + ' '
+      final += getRandomListElement(stringsList) + '. '
     }
 
     return final;
