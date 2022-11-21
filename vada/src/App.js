@@ -14,15 +14,14 @@ function App() {
 
   const generateRandomString = () => {
     let stringsList = [
-      'hi',
-      'prajacta',
-      'egg',
-      'huevo',
-      'yay',
-      'potato',
+      'vada pav',
+      'batata vada',
+      'medu vada',
+      'dahi vada',
+      'daar vada',
+      'parle g',
       'cringe',
-      'rip',
-      ''
+      'prajacta',
     ]
 
     let final = ""
