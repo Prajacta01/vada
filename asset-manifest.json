@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vada/static/css/main.073c9b0a.css",
+    "main.js": "/vada/static/js/main.6e78f19d.js",
+    "static/js/787.680270a1.chunk.js": "/vada/static/js/787.680270a1.chunk.js",
+    "index.html": "/vada/index.html",
+    "main.073c9b0a.css.map": "/vada/static/css/main.073c9b0a.css.map",
+    "main.6e78f19d.js.map": "/vada/static/js/main.6e78f19d.js.map",
+    "787.680270a1.chunk.js.map": "/vada/static/js/787.680270a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6e78f19d.js"
+  ]
+}
